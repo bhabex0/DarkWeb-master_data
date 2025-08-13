@@ -5,7 +5,7 @@ Here's a breakdown of key technologies and approaches:
 
 1. Dark Web Monitoring Tools and Services:   <br>
 Specialized Search Engines and Crawlers:    <br>
-Tools like Ahmia.fi index Tor websites, allowing security professionals to search for specific information and assess the presence of malicious content.   <br><br><br>
+Tools like Ahmia.fi(https://ahmia.fi/) index Tor websites, allowing security professionals to search for specific information and assess the presence of malicious content.   <br><br><br>
 
 AI and Machine Learning:      <br>
 These technologies analyze vast amounts of dark web data to identify patterns, detect anomalies, and predict potential threats according to Brandefense.    <br> <br> 
