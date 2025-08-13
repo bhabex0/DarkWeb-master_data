@@ -2,7 +2,8 @@
 
 Dark web cybersecurity technologies for security testing primarily focus on monitoring and analyzing the dark web to detect potential threats and vulnerabilities before they can be exploited. This involves using specialized tools and techniques to scan for stolen data, malicious activity, and emerging attack patterns within the hidden corners of the internet. These technologies help organizations proactively identify risks and strengthen their overall security posture. 
 
-Tools: Torbot, Ahmia, CrowdStrike, DarkOwl, SpyCloud, Inc., Brandefense, Flashpoint, Have I Been Pwned?, Rapid7, Recorded Future, SOCRadar, Cyber Intelligence Inc., ZeroFox, Acid Intelligence, Digital Shadows, Hunchly, Ibm X-force Exchange, I d agent, Intelligence X, Lunar By Webz.io, Mandiant, OnionScan, LifeLock dark web scan, DarkIQ, Flare.
+Tools: <br>
+Torbot, Ahmia, CrowdStrike, DarkOwl, SpyCloud, Inc., Brandefense, Flashpoint, Have I Been Pwned?, Rapid7, Recorded Future, SOCRadar, Cyber Intelligence Inc., ZeroFox, Acid Intelligence, Digital Shadows, Hunchly, Ibm X-force Exchange, I d agent, Intelligence X, Lunar By Webz.io, Mandiant, OnionScan, LifeLock dark web scan, DarkIQ, Flare.
 
 
 
